@@ -1,0 +1,1 @@
+Untill now I have made a sample UDP client/server communication in which I have hardcoded the ports of 3 servers and then the client will get connected with the server after which the server will maintain a broadcasting table so that it can know to which clients it is connected successfully.
