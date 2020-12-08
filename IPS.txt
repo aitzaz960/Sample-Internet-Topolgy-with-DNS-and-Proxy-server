@@ -1,0 +1,4 @@
+slate.nu.edu.pk 127.0.0.1::8080
+google.com 127.0.0.1::2000
+flexstudent.nu.edu.pk 127.0.0.1::3000
+nu.edu.pk 127.0.0.1::4000
